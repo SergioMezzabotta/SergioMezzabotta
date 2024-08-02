@@ -2,7 +2,7 @@
 
 ### Habilidades
 
-- JavaScript, Python, HTML, CSS
+- JavaScript, Python, HTML, CSS, C++, C#
 - React, Node.js, Django
 - Git, SQL, MongoDB
 

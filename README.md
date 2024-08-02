@@ -9,7 +9,7 @@
 ## Contacto
 
 - Email: adrielmezzabotta123@gmail.com
-- LinkedIn: [Sergio Adriel Mezzabotta](https://www.linkedin.com/in/sergio-adriel-mezzabotta-96bb361bb/)
+- LinkedIn: [Sergio Adriel Mezzabotta](https://www.linkedin.com/in/sergio-adriel-mezzabotta/)
 
 ## Estadísticas
 
